@@ -1,4 +1,4 @@
-# FIT2099 Assignment (Semester 2, 2024)
+### A 4-person collaboration on a text-based "rougue-like" game.
 
 ```
 `7MM"""YMM  `7MMF'      `7MM"""Yb. `7MM"""YMM  `7MN.   `7MF'    MMP""MM""YMM `7MMF'  `7MMF'`7MMF'`7MN.   `7MF' .g8"""bgd  
@@ -17,24 +17,21 @@
 2. Controls will be displayed on the console, use the control keys for movement and interaction.
 
 ## Team Members
-1. Aaron Lam Kong Yew (alam0055@student.monash.edu)
-2. Hsu Chyi See (hsee0006@student.monash.edu)
-3. Kim Tae Jun (tkim0018@student.monash.edu)
-4. Stanley Mah (smah0061@student.monash.edu)
+1. Aaron
+2. Sushi (teammate)
+3. Kim (teammate)
+4. Stanley (teammate)
 
-## Handover Videos for A3
-#### Can also look under docs/design for the file HandoverVideos.txt for the links
-1. Stanley Mah (REQ1) - https://youtu.be/kJ3gfWIwHsk
-2. Kim Tae Jun (REQ2) - https://www.youtube.com/watch?v=QJKBcmyx2Ro
-3. Aaron Lam Kong Yew (REQ3) - https://youtu.be/5d4Yph95ipw
-4. Hsu Chyi See (REQ4) - https://youtu.be/bYIgDd59lRs?feature=shared
+## Demonstration
+#### Implementation of Static Factory Interface for High-level OOP
+https://youtu.be/5d4Yph95ipw
+
 
 ## Contribution Log link:
 https://docs.google.com/spreadsheets/d/1fmjACe3buaTM3u-D6_bHN_q3YSQsozTOTXxAF65g0JY/edit?usp=sharing
-
 (last revised: 2024-10-27)
 
-## Assignment 3 REQ 4 
+## New Elden Thing Mob - **TimeKeeper**
 In this feature, we introduce a Day/Night Cycle System into the game. The system divides the day into 
 two phases: daytime and nighttime. Enemies deal more damage at night, dealing increased damage. 
 The cycle of day and night is each split into 12 ticks, with each tick representing 1 hour. The game 
@@ -92,7 +89,7 @@ Monash University holds copyright for code inside the `edu.monash.fit2099` packa
 ## Usage
 - Use the control keys displayed on the console for movement and interaction.
 
-## Contributing
+## Contributing _(disabled)_
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -m 'Add some feature'`).
