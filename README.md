@@ -26,11 +26,6 @@
 #### Implementation of Static Factory Interface for High-level OOP
 https://youtu.be/5d4Yph95ipw
 
-
-## Contribution Log link:
-https://docs.google.com/spreadsheets/d/1fmjACe3buaTM3u-D6_bHN_q3YSQsozTOTXxAF65g0JY/edit?usp=sharing
-(last revised: 2024-10-27)
-
 ## New Elden Thing Mob - **TimeKeeper**
 In this feature, we introduce a Day/Night Cycle System into the game. The system divides the day into 
 two phases: daytime and nighttime. Enemies deal more damage at night, dealing increased damage. 
