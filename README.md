@@ -1,5 +1,3 @@
-### A 4-person collaboration on a text-based "rougue-like" game.
-
 ```
 `7MM"""YMM  `7MMF'      `7MM"""Yb. `7MM"""YMM  `7MN.   `7MF'    MMP""MM""YMM `7MMF'  `7MMF'`7MMF'`7MN.   `7MF' .g8"""bgd  
   MM    `7    MM          MM    `Yb. MM    `7    MMN.    M      P'   MM   `7   MM      MM    MM    MMN.    M .dP'     `M  
@@ -12,11 +10,17 @@
 
 # Mini Elden Ring
 
+This Java project is a text-based rogue-like game developed by a team of four. It employs object-oriented programming (OOP) principles, including abstraction and factory patterns, to enhance code modularity and reusability. The design adheres to SOLID principles, ensuring maintainability and scalability. Wildcard types are used to handle generic collections, promoting flexibility and type safety.
+
+![Boss Arena](./boss_arena.png)
+
+![Home Base](./gravesite_plains.png)
+
 ## Instructions:
 1. Run `src/game/Application.java` to start the game.
 2. Controls will be displayed on the console, use the control keys for movement and interaction.
 
-## Team Members
+## Team Members - 4
 1. Aaron
 2. Sushi (teammate)
 3. Kim (teammate)
@@ -27,7 +31,7 @@
 https://youtu.be/5d4Yph95ipw
 
 ## New Elden Thing Mob - **TimeKeeper**
-In this feature, we introduce a Day/Night Cycle System into the game. The system divides the day into 
+As a spin-off to our very own "elden-ring", we introduce a Day/Night Cycle System into the game. The system divides the day into 
 two phases: daytime and nighttime. Enemies deal more damage at night, dealing increased damage. 
 The cycle of day and night is each split into 12 ticks, with each tick representing 1 hour. The game 
 starts with daytime, and the cycle will continue to alternate between day and night every 12 ticks. At
