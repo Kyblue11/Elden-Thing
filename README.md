@@ -12,9 +12,9 @@
 
 This Java project is a text-based rogue-like game developed by a team of four. It employs object-oriented programming (OOP) principles, including abstraction and factory patterns, to enhance code modularity and reusability. The design adheres to SOLID principles, ensuring maintainability and scalability. Wildcard types are used to handle generic collections, promoting flexibility and type safety.
 
-![Boss Arena](./boss_arena.png)
+<img src="./boss_arena.png" alt="Boss Arena" width="50%">
 
-![Home Base](./gravesite_plains.png)
+<img src="./gravesite_plains.png" alt="Home Base" width="30%">
 
 ## Instructions:
 1. Run `src/game/Application.java` to start the game.
